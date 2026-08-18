@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-hnq2qx.koi888win.online/sitemap.xml
